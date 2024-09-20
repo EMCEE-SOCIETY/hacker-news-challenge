@@ -2,6 +2,8 @@
 
 Create a React application that allows users to browse and search Hacker News posts using the Hacker News API. The application should have the following features:
 
+Hacker News API Docs: https://hn.algolia.com/api
+
 ## Requirements:
 
 1. Post Retrieval and Pagination:
